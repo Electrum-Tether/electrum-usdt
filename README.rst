@@ -4,24 +4,26 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-ElectrumX - Reimplementation of electrum-server
+Electrum Tether (USDT)
 ===============================================
 
   :Licence: MIT
   :Language: Python (>= 3.8)
   :Original Author: Neil Booth
 
-This project is a fork of `kyuupichan/electrumx <https://github.com/kyuupichan/electrumx>`_.
-The original author dropped support for Bitcoin, which we intend to keep.
+**Electrum Tether (USDT)** is a lightweight wallet for Tether (USDT), offering stable, secure, and fast transactions pegged to the US dollar.  
 
-ElectrumX allows users to run their own Electrum server. It connects to your
-full node and indexes the blockchain, allowing efficient querying of the history of
-arbitrary addresses. The server can be exposed publicly, and joined to the public network
-of servers via peer discovery. As of May 2020, a significant chunk of the public
-Electrum server network runs ElectrumX.
-
-Documentation
+Features  
 =============
 
-See `readthedocs <https://electrumx-spesmilo.readthedocs.io/>`_.
+- **Stablecoin Support**: USDT transactions are pegged to the USD, offering stability.  
+- **Secure**: Multi-signature and hardware wallet support.  
+- **Lightweight**: A fast and efficient wallet that minimizes resource usage.  
+- **Cross-Platform Support**: Available for Windows, macOS, and Linux. 
 
+License  
+=============
+
+This project is licensed under the MIT License. See the `LICENSE`_ for details.
+
+.. _LICENSE: https://github.com/Electrum-Tether/electrum-usdt/blob/master/LICENCE
