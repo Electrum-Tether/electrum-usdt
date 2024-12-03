@@ -4,7 +4,7 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-Electrum Tether (USDT)
+Electrum Tether (USDT) Wallet
 ===============================================
 
   :Licence: MIT
